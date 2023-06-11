@@ -14,12 +14,14 @@ Anaconda - Python 3.7
 ### Step 4: End the program.
 
 ## PROGRAM:
+```
 #Developed By: Deepika S
 #Register No: 212222230028
 with open('f1.txt','r') as f1:
     with open ('f2.txt','a') as f2:
         for line in f1:
             f2.write(line)
+```
             
 
 ### OUTPUT:
