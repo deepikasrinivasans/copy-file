@@ -25,10 +25,14 @@ with open('f1.txt','r') as f1:
             
 
 ### OUTPUT:
+### Program
 ![py 1](https://github.com/deepikasrinivasans/copy-file/assets/119393935/5493de85-9c06-4fd1-9320-9fdd079837c0)
+### File 1
 ![py 2](https://github.com/deepikasrinivasans/copy-file/assets/119393935/f707ae7d-d7ad-4b83-87fd-fcb65f31c62c)
+### File 2
 ![py 3](https://github.com/deepikasrinivasans/copy-file/assets/119393935/e0a14ed8-3a46-49b4-9e04-b1c9dcb6edd0)
-
+### File 1 copied into File 2
+![py 4](https://github.com/deepikasrinivasans/copy-file/assets/119393935/ca716c0a-9ec8-46b8-a11b-50753acb43fa)
 ## RESULT:
 
 Thus the program is written to copy the contents from one file to another file.
